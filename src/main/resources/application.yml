@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: kafka-consumer
+  kafka:
+    bootstrap-servers: localhost:29092
+    consumer:
+      group-id: group2
+
+server:
+  port : 8082
