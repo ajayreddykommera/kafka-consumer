@@ -1,4 +1,4 @@
-package com.ajay.kafkaConsumer.model;
+package com.ajay.kafka.model;
 
 import lombok.Data;
 
